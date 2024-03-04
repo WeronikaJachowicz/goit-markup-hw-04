@@ -436,13 +436,19 @@ a {
     padding: 100px 0;
     height: 100px 0;
 }
-
-.container-footer {
+.footer-left {
     margin-left: 120px;
+}
+.container-footer {
+    
+    display: flex;
+    align-content: baseline;
+    gap: 120px;
 }
 .logo-footer {
     display: inline-block;
     margin-bottom: 16px;
+    color: #4d5ae5;
 }
 
 .logo-studio-footer,
