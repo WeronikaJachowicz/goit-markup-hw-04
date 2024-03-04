@@ -30,7 +30,7 @@ img {
 }
 
 .container {
-    display:flex;
+    
     width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
@@ -436,7 +436,12 @@ a {
     padding: 100px 0;
     height: 100px 0;
 }
-
+.container-footer {
+    display: flex;
+    width: 264px;
+    margin-right: 120px;
+    margin-left: 120px;
+}
 .logo-footer {
     display: inline-block;
     margin-bottom: 16px;
