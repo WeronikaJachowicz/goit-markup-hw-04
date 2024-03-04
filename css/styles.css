@@ -430,10 +430,10 @@ a {
 }
 
 .page-footer {
-    display: flex;
-    justify-content: center;
+
     background-color: #2e2f42;
     padding: 100px 0;
+    height: 100px 0;
 }
 
 .logo-footer {
@@ -452,10 +452,11 @@ a {
     max-width: 264px;
 }
 
-.icon-set-sm-footer {
+.icon-set-footer {
     display: flex;
     gap: 16px;
 }
+
 
 .sm-footer-title {
     font-weight: 500;
