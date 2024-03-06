@@ -30,7 +30,7 @@ img {
 }
 
 .container {
-    
+
     width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
@@ -239,6 +239,7 @@ a {
     margin: auto;
 
 }
+
 .list-header {
     font-weight: 500;
     font-size: 20px;
@@ -247,7 +248,7 @@ a {
     color: #2e2f42;
     margin-bottom: 8px;
     margin-top: 8px;
-    
+
 }
 
 .paragraph {
@@ -322,6 +323,7 @@ a {
     gap: 24px;
     margin: 9px 16px 0px 16px;
 }
+
 .icon-circle {
     width: 40px;
     height: 40px;
@@ -404,6 +406,7 @@ a {
     letter-spacing: 0.02em;
     color: #434455;
 }
+
 .inside-text {
     font-size: 16px;
     line-height: 1.5;
@@ -436,15 +439,18 @@ a {
     padding: 100px 0;
     height: 100px 0;
 }
+
 .footer-left {
     margin-left: 120px;
 }
+
 .container-footer {
-    
+
     display: flex;
     align-content: baseline;
     gap: 120px;
 }
+
 .logo-footer {
     display: inline-block;
     margin-bottom: 16px;
@@ -481,4 +487,3 @@ a {
 .link-footer:focus {
     background-color: #31d0aa;
 }
-
